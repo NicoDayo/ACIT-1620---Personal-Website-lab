@@ -1,5 +1,9 @@
-h1{
+.head{
     color: #483D8B;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 40px;
 }
 
 *{
