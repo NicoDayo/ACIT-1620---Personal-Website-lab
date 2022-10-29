@@ -1,8 +1,9 @@
 #box1{
     background-color: #A6cad4;
     display: flex;
-    flex-direction: column
+    flex-direction: column;
 }
+
 
 body
 {
