@@ -4,7 +4,6 @@
     flex-direction: column;
 }
 
-
 body
 {
 background-color: #EDDDD0;
@@ -76,6 +75,12 @@ li{
     font-size: 40px;
     background-color: #A6cad4;}
 
+#coursecontainer {
+    display: grid;
+    grid-template-rows: 1fr 4.9fr;
+    grid-template-columns:1fr;
+}
+
 #myschoolheader
 {
     font-family: 'Montserrat', sans-serif;
@@ -89,4 +94,10 @@ li{
     margin-left: auto;
     margin-right: auto;
     width: 15%;}
+
+#SchoolContainer{
+    display: grid;
+    grid-template-rows: 1fr 4.9fr;
+    grid-template-columns:1fr;
+}
 
