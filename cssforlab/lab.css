@@ -76,9 +76,10 @@ li{
     background-color: #A6cad4;}
 
 #coursecontainer {
-    display: grid;
-    grid-template-rows: 1fr 4.9fr;
-    grid-template-columns:1fr;
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #A6cad4;
 }
 
 #myschoolheader
